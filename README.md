@@ -6,6 +6,9 @@ The purpose of this repository is to provide a way for organizations to install 
 Current support:
 
 Mac OSX on ARM - v1.13.1
+
 Mac OSX on Intel - unsupported
+
 Windows - unsupported
+
 Linux - unsupported
