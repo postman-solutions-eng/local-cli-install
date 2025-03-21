@@ -7,8 +7,8 @@ Current support:
 
 Mac OSX on ARM - v1.13.1
 
-Mac OSX on Intel - unsupported
+Mac OSX on Intel - pending
 
-Windows - unsupported
+Windows - pending
 
-Linux - unsupported
+Linux - pending
