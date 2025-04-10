@@ -11,4 +11,4 @@ Mac OSX on Intel - pending
 
 Windows - pending
 
-Linux - pending
+Linux - v1.13.1
